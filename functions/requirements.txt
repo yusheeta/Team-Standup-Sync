@@ -1,0 +1,4 @@
+firebase-functions
+google-cloud-firestore
+requests
+python-dotenv

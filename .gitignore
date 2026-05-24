@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Android / Gradle
+.gradle/
+local.properties
+*.iml
+.idea/
+build/
+app/build/
+
+# Kotlin
+*.class
+
+# Firebase
+.firebase/
+
+# Python
+functions/.venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Logs
+*.log
